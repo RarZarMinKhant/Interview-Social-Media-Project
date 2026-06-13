@@ -77,14 +77,6 @@ php artisan serve
 
 Use the seeded users created by the database seeder.
 
-## Screenshots
-
-You can add screenshots here:
-
-```md
-![Home Page](screenshots/home.png)
-```
-
 ## Author
 
 Rar Zar Min Khant
